@@ -3,9 +3,14 @@
   "version": "1.0.0",
   "description": "Geolocation para retornar qual é a clinica mais próxima do usuário",
   "type": "module",
+  "engines": {
+    "node": "18.x"
+  },
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "vercel-build": "echo hello"
   },
   "author": "Marcos Rodrigues",
   "license": "ISC",

@@ -4,7 +4,7 @@
   "description": "Geolocation para retornar qual é a clinica mais próxima do usuário",
   "type": "module",
   "engines": {
-    "node": "18.x"
+    "node": "20.x"
   },
   "main": "src/index.js",
   "scripts": {

@@ -1,7 +1,7 @@
 {
   "name": "chatbot-api",
   "version": "1.0.0",
-  "description": "Geolocation para retornar qual é a clinica mais próxima do usuário",
+  "description": "chatbot return rep in C#",
   "type": "module",
   "engines": {
     "node": "20.x"

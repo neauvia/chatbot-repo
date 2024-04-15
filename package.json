@@ -2,13 +2,12 @@
   "name": "chatbot-api",
   "version": "1.0.0",
   "description": "chatbot return rep in C#",
-  "type": "module",
   "engines": {
     "node": "20.x"
   },
   "main": "src/index.js",
   "scripts": {
-    "start": "node .src/index.js",
+    "start": "node src/index.js",
     "test": "echo \"Error: no test specified\" && exit 1",
     "vercel-build": "echo hello",
     "dev": "nodemon"

@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "chatbot return rep in C#",
   "engines": {
-    "node": "20.x"
+    "node": "16.x"
   },
   "main": "src/index.js",
   "scripts": {

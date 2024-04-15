@@ -4,7 +4,7 @@ import axios from 'axios';
 const app = express();
 const port = process.env.PORT || 3000;
 
-app.get("/blip", async (req, res) => {
+app.get("/", async (req, res) => {
     try {
         const gh = axios.create({
             baseURL: "https://api.github.com/users/takenet/repos?sort=created&direction=asc",

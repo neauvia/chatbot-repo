@@ -2,6 +2,7 @@
   "name": "chatbot-api",
   "version": "1.0.0",
   "description": "chatbot return rep in C#",
+  "type": "module",
   "engines": {
     "node": "20.x"
   },

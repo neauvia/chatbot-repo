@@ -1,7 +1,7 @@
 {
   "name": "chatbot-api",
   "version": "1.0.0",
-  "description": "chatbot return rep in C#",
+  "description": "chatbot return geocode",
   "type": "module",
   "engines": {
     "node": "20.x"
